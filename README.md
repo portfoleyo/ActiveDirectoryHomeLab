@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab (System Administration)</h1>
 
-<img src="https://i.imgur.com/jy4tDFa.png" height="80%" width="80%" alt="Azure Homelab Cover"/> 
+<img src="https://i.imgur.com/jy4tDFa.png" height="100%" width="100%" alt="Active Directory Homelab Cover"/> 
 
 <h2>Description</h2>
 
@@ -27,7 +27,24 @@ Through the seamless orchestration of these components, this project not only ex
 - <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022"> Microsoft Windows Server 2022 <a/>
 - <a href="https://www.microsoft.com/en-in/evalcenter/download-windows-11-enterprise"> Microsoft Windows 11 Enterprise <a/>
 > You will need to download the files above beforehand
+- Powershell
+- Active Directory
+- CMD
 
 <h2>Lab Walk-Through</h2>
 
+<img height="100%" width="100%" alt="adhl_1 1" src="https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/809a2589-54f6-474c-bcef-8714e5ac431e">
+
+<img height="100%" width="100%" alt="adhl_1 2" src="https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/8d42f7a6-55c3-40cb-9468-7ebe375725da">
+
+<img height="100%" width="100%" alt="adhl_1 3" src="https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/9b44d5c7-dcf0-44fc-9e76-8441cfe144ca">
+
+<img height="100%" width="100%" alt="adhl1 4" src="https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/248cd244-c363-43eb-ba45-e96493672bc8">
+
+<img height="100%" width="100%" alt="adhl_1 5" src="https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/de70b3c2-7c58-42dd-8398-56d88869572c">
+
 ![adhl1 6](https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/aa85bc5c-5f69-4baa-9a8e-8fddcc3d6511)
+
+![adhl1 7_configntwk](https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/a0ae5578-0e7a-4c83-a486-b58d69645bd0)
+
+<img height="100%" width="100%" alt="adhl1 8" src="https://github.com/portfoleyo/ActiveDirectoryHomeLab/assets/50858187/00c53f49-b02a-4565-a9a1-2f1d08aa3162">
